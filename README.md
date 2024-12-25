@@ -47,6 +47,22 @@ Lab 3의 FSM을 기반으로 키보드 입력에 따라 동작하도록 설계�
 
 ---
 
+##실행화면
+
+![t 동작](image/image00009.jpg)
+![t 동작](image/image00010.jpg)
+
+![b 동작](image/image00018.jpg)
+![b 동작](image/image00019.jpg)
+
+![s 동작](image/image00024.jpg)
+![s 동작](image/image00023.jpg)
+
+![r 동작](image/image00035.jpg)
+![r 동작](image/image00036.jpg)
+
+---
+
 ## Verilog 소스코드
 다음은 본 프로젝트에서 사용된 Verilog 소스코드입니다.
 
@@ -97,17 +113,5 @@ module roulette(clk, rst, ps2c, ps2d, y);
 endmodule
 
 ---
-##실행화면
 
-![t 동작](image/image00009.jpg)
-![t 동작](image/image00010.jpg)
-
-![b 동작](image/image00018.jpg)
-![b 동작](image/image00019.jpg)
-
-![s 동작](image/image00024.jpg)
-![s 동작](image/image00023.jpg)
-
-![r 동작](image/image00035.jpg)
-![r 동작](image/image00036.jpg)
 
