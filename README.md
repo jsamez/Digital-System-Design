@@ -24,14 +24,14 @@
 - `t` 키: LED 상태가 증가
 - `b` 키: LED 상태가 감소
 
-![LED 동작](path/to/diagram.png)
-![LED 동작](path/to/diagram.png)
-![LED 동작](path/to/diagram.png)
-![LED 동작](path/to/diagram.png)
-![LED 동작](path/to/diagram.png)
-![LED 동작](path/to/diagram.png)
-![LED 동작](path/to/diagram.png)
-![LED 동작](path/to/diagram.png)
+![LED 동작](image/image00001.PNG)
+![LED 동작](image/image00004.PNG)
+![LED 동작](image/image00002.PNG)
+![LED 동작](image/image00007.PNG)
+![LED 동작](image/image00003.PNG)
+![LED 동작](image/image00008.PNG)
+![LED 동작](image/image00006.PNG)
+![LED 동작](image/image00005.PNG)
 
 ---
 
@@ -95,3 +95,18 @@ module roulette(clk, rst, ps2c, ps2d, y);
         endcase
     end
 endmodule
+
+---
+##실행화면
+![t 동작](image/image00009.jpg)
+![t 동작](image/image00010.jpg)
+
+![b 동작](image/image00018.jpg)
+![b 동작](image/image00019.jpg)
+
+![s 동작](image/image00024.jpg)
+![s 동작](image/image00023.jpg)
+
+![r 동작](image/image00035.jpg)
+![r 동작](image/image00036.jpg)
+
