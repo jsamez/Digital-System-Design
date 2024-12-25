@@ -24,6 +24,15 @@
 - `t` 키: LED 상태가 증가
 - `b` 키: LED 상태가 감소
 
+![LED 동작](path/to/diagram.png)
+![LED 동작](path/to/diagram.png)
+![LED 동작](path/to/diagram.png)
+![LED 동작](path/to/diagram.png)
+![LED 동작](path/to/diagram.png)
+![LED 동작](path/to/diagram.png)
+![LED 동작](path/to/diagram.png)
+![LED 동작](path/to/diagram.png)
+
 ---
 
 ## FSM 설계
